@@ -1958,11 +1958,9 @@ t;{clearInterval(Y)},1e4);let Q=3Ddocument.querySelector(".comment-count-ba=
 dge");if(Q)try{let X=3DparseInt(Q.textContent,10);isNaN(X)||(X&gt;=3D1e3?Q.=
 textContent=3D(X/1e3).toFixed(1).replace(".0","")+"k":0!=3D=3DX||(Q.style.d=
 isplay=3D"none"))}catch(ee){console.error("Error formatting comment badge:"=
-,ee)}}let et=3D"https://agfwyfwsnqnklgcgemnw.supabase.co";if("undefined"!=
+,ee)}}let et=3D"https://rolnwztgzdhnshiorzoy.supabase.co";if("undefined"!=
 =3Dtypeof supabase&amp;&amp;et.startsWith("http")){let ea=3Dsupabase.create=
-Client(et,"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJ=
-lZiI6ImFnZnd5ZndzbnFua2xnY2dlbW53Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcyMTQ3MT=
-QsImV4cCI6MjA3Mjc5MDcxNH0.NBWiC0YzG8zDhijQ17j49xVXUyLJYXlMJKJkfFJg5yg");(()=
+Client(et,"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJvbG53enRnemRobnNoaW9yem95Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE1MDEyMDEsImV4cCI6MjA5NzA3NzIwMX0.9lxyKQ9D4pbdbPrtSC8rSz6qeq_VM0G9VcY44pZMgaY");(()=
 =3D&gt;{let e=3Ddocument.getElementById("post-review-data");if(!e)return;if=
 (!document.getElementById("rating-feedback-popup")){let t=3Ddocument.create=
 Element("div");t.id=3D"rating-feedback-popup",t.className=3D"rating-feedbac=
